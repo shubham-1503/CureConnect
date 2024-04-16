@@ -1,0 +1,14 @@
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://securetoken.google.com/cure-connect-web1
+          jwk-set-uri: https://www.googleapis.com/robot/v1/metadata/jwk/securetoken@system.gserviceaccount.com
+  application:
+    name: cure-connect
+    data:
+      mongodb:
+        uri: mongodb+srv://bhavyamevawala:Bhavya1999@curecluster.arkxf2v.mongodb.net/your_database_name?retryWrites=true&w=majority&appName=CureCluster
+  server:
+    port: '8080'

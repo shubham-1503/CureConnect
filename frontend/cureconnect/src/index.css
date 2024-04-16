@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body > #root > div {
+    height: 100vh;
+}
+
+@keyframes slide-up-opacity {
+    0% {
+      transform: translateY(70%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0%);
+      opacity: 1;
+    }
+  }
+  
+  .animate-slide-up-opacity {
+    animation: slide-up-opacity 1s ease-out;
+  }

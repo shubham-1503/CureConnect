@@ -1,0 +1,9 @@
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+package-lock.json
+.vite/
+
+backend/CureConnect/src/main/resources/serviceAccountKey.json
