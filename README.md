@@ -15,6 +15,6 @@ This project was a collaborative effort involving a team of six individuals, inc
 Below are some screenshots which will give you the overall look and feel of the website
 
 ### Landing Page
-[image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/cureconnect%20demo%20images%2Flanding.png?alt=media&token=aa56c5c2-65f2-48ba-b403-30b5f2c3d08f)
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/cureconnect%20demo%20images%2Flanding.png?alt=media&token=aa56c5c2-65f2-48ba-b403-30b5f2c3d08f)
 
 
