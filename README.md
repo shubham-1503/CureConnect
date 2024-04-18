@@ -7,9 +7,9 @@ This project was a collaborative effort involving a team of six individuals, inc
 - Developed a feature for patients to access **past appointments**, with a **search filter** based on the doctor’s name.
 - Utilized **React PDF renderer** to generate prescriptions, enabling patients to **view and download PDFs**.
 - Developed the core functionality of **medicine purchase** by leveraging Axios for API calls. This allowed patients to easily buy their prescribed medicines, ensuring they could order specific quantities within limits set by their doctor.
-- Additionally, I integrated inventory checks to ensure availability, so the patient could buy medicine only if there was enough inventory.
-- Designed and implemented the Contact Us Page, providing users with a seamless way to reach out for support and inquiries.
-- Set up the frontend with React Vite and enhanced the platform’s UX by implementing Tailwind CSS
+- Additionally, I integrated **inventory checks** to ensure availability, so the patient could buy medicine only if there was enough inventory.
+- Designed and implemented the **Contact Us Page**, providing users with a seamless way to reach out for support and inquiries.
+- Set up the frontend with **React Vite** and enhanced the platform’s UX by implementing **Tailwind CSS**.
 
 ## Screenshots 📸
 Below are some screenshots which will give you the overall look and feel of the website
