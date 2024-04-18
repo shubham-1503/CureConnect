@@ -1,4 +1,4 @@
-### Overview
+## Overview
 CureConnect is a user-friendly platform bridging patients and doctors, facilitating online consultations, prescriptions, and medical history access. Patients seamlessly book appointments, view past prescriptions, and purchase prescribed medicines from available inventory, making it a comprehensive solution for healthcare needs.
 
 This project was a collaborative effort involving a team of six individuals, including myself.
