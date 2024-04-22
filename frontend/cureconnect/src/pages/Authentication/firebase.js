@@ -4,7 +4,7 @@ import {getStorage} from "firebase/storage";
 
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyASMoF14dBxIx20skQlkpJoM5LJRlkWaHw",
+    apiKey: "",
     authDomain: "cure-connect-web1.firebaseapp.com",
     projectId: "cure-connect-web1",
     storageBucket: "cure-connect-web1.appspot.com",
